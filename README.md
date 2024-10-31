@@ -55,11 +55,6 @@
 
 ---
 
-## Connect with Me
-<p align="left">
-    <a href="https://www.linkedin.com/in/saeidtaleghani" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
-    <a href="https://github.com/saeidtaleghani23" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/></a>
-</p>
 
 ###
 
