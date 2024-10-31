@@ -52,14 +52,3 @@
     <!-- Jupyter Notebook -->
     <img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" title="Jupyter Notebook" width="40" height="40"/>
 </p>
-
----
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
